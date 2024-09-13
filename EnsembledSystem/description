@@ -1,1 +1,3 @@
-
+Ensembled system consisting of bert and bart using stacking method.Ensembled Systems difference to cosine similarity 
+file is the cosine similarity metric is been given by bert model through word embeddings and deep understanding,and
+not by the default python metric function
